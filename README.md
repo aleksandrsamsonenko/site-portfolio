@@ -1,3 +1,3 @@
-# MY temporary APP
+# MY Site Portfolio
 
-just my temporary app 
+just my Site Portfolio 
